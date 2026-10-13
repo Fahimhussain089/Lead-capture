@@ -66,5 +66,7 @@ Atoms take a value, a label, and callbacks. They do not know what a lead is. Add
 <img width="376" height="757" alt="Screenshot 2026-10-13 at 11 07 58 PM" src="https://github.com/user-attachments/assets/1f274818-0f8d-479b-bbf1-f6b9bc3a7537" />
 <img width="370" height="753" alt="Screenshot 2026-10-13 at 11 07 48 PM" src="https://github.com/user-attachments/assets/14ca4191-3b06-4d08-af17-3af56cd52ff3" />
 <img width="382" height="752" alt="Screenshot 2026-10-13 at 11 07 01 PM" src="https://github.com/user-attachments/assets/b5088f96-012e-470a-97d4-1226dffeced4" />
-[ezyZip.webm](https://github.com/user-attachments/assets/b1b5aa31-82fe-4d85-a351-629ec9053709)
+
+[ezyZip.webm](https://github.com/user-attachments/assets/f15276b5-947d-486f-a195-20031b526766)
+
 
