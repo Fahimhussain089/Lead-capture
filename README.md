@@ -60,3 +60,10 @@ Atoms take a value, a label, and callbacks. They do not know what a lead is. Add
 - At 600dp and above: half-span fields share a row. Full name and email are half, so they share the first row. Notes and consent are full width, so each spans the row.
 
 `lead/LeadFormScreen.kt` owns insets and the keyboard. Content is padded by system bars, display cutout, and the IME as a union, so the focused field can scroll above the keyboard and the submit button stays on screen above the navigation bar and the keyboard. `adjustResize` is set on the activity.
+
+[ezyZip.webm](https://github.com/user-attachments/assets/b1b5aa31-82fe-4d85-a351-629ec9053709)
+
+<img width="376" height="757" alt="Screenshot 2026-10-13 at 11 07 58 PM" src="https://github.com/user-attachments/assets/1f274818-0f8d-479b-bbf1-f6b9bc3a7537" />
+<img width="370" height="753" alt="Screenshot 2026-10-13 at 11 07 48 PM" src="https://github.com/user-attachments/assets/14ca4191-3b06-4d08-af17-3af56cd52ff3" />
+<img width="382" height="752" alt="Screenshot 2026-10-13 at 11 07 01 PM" src="https://github.com/user-attachments/assets/b5088f96-012e-470a-97d4-1226dffeced4" />
+
